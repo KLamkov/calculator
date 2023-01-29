@@ -7,7 +7,9 @@ Simple calculator application
   + Multiplication
   + Division
   + Delete last number
-  
+
+
+## [Published project link](https://klamkov.github.io/calculator/)
 
 ![screen](public/screen.png)
 
