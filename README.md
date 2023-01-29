@@ -1,3 +1,25 @@
+# Description:
+Simple calculator application
+
+## Available options:
+  + Addition
+  + Subtraction
+  + Multiplication
+  + Division
+  + Delete last number
+  
+
+![screen](public/screen.png)
+
+
+
+
+
+
+
+
+___
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
